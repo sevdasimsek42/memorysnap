@@ -4,7 +4,7 @@ Misafirlerin QR ile fotoğraf/video yüklediği, etkinlik sahibinin panelden yö
 
 ## Gereksinimler
 
-- Node.js 18+
+- Node.js 
 - [Supabase](https://supabase.com) projesi
 - (İsteğe bağlı) [Google Cloud Vision](https://cloud.google.com/vision) API anahtarı — otomatik güvenli arama için
 
